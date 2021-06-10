@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/azure-front-gh/static/css/main.7a7f034a.chunk.css",
+    "main.js": "/azure-front-gh/static/js/main.3e063034.chunk.js",
+    "main.js.map": "/azure-front-gh/static/js/main.3e063034.chunk.js.map",
+    "runtime-main.js": "/azure-front-gh/static/js/runtime-main.e623d8b1.js",
+    "runtime-main.js.map": "/azure-front-gh/static/js/runtime-main.e623d8b1.js.map",
+    "static/css/2.2bbe33c5.chunk.css": "/azure-front-gh/static/css/2.2bbe33c5.chunk.css",
+    "static/js/2.c43f60cf.chunk.js": "/azure-front-gh/static/js/2.c43f60cf.chunk.js",
+    "static/js/2.c43f60cf.chunk.js.map": "/azure-front-gh/static/js/2.c43f60cf.chunk.js.map",
+    "static/js/3.e9fb540a.chunk.js": "/azure-front-gh/static/js/3.e9fb540a.chunk.js",
+    "static/js/3.e9fb540a.chunk.js.map": "/azure-front-gh/static/js/3.e9fb540a.chunk.js.map",
+    "index.html": "/azure-front-gh/index.html",
+    "static/css/2.2bbe33c5.chunk.css.map": "/azure-front-gh/static/css/2.2bbe33c5.chunk.css.map",
+    "static/css/main.7a7f034a.chunk.css.map": "/azure-front-gh/static/css/main.7a7f034a.chunk.css.map",
+    "static/js/2.c43f60cf.chunk.js.LICENSE.txt": "/azure-front-gh/static/js/2.c43f60cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e623d8b1.js",
+    "static/css/2.2bbe33c5.chunk.css",
+    "static/js/2.c43f60cf.chunk.js",
+    "static/css/main.7a7f034a.chunk.css",
+    "static/js/main.3e063034.chunk.js"
+  ]
+}
